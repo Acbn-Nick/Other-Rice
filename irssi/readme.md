@@ -1,5 +1,5 @@
-be sure to enter the text below into irssi if u want left-aligned nicks
-doesn't work w/ nickcolor.pl
+# be sure to enter the text below into irssi if u want left-aligned nicks
+## doesn't work w/ nickcolor.pl
 
 '''
 /format own_msg {ownmsgnick $2 {ownnick $[-9]0}}$1
