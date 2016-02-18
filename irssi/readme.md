@@ -1,4 +1,4 @@
-# be sure to enter the text below into irssi if u want left-aligned nicks
+# be sure to enter the text below into irssi if u want right-aligned nicks
 ## doesn't work w/ nickcolor.pl
 
 ```
